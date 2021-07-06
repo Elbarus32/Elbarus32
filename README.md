@@ -11,5 +11,8 @@ Soy principiante en CyberSeguridad y Programación
 
 ### Lenguajes
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elbarus32)](https://github.com/Elbarus32/github-readme-stats)
+
+
 ### Stats
 ![Elbarus32's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elbarus32&show_icons=true&theme=radical)
