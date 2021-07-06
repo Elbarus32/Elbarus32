@@ -15,4 +15,4 @@ Soy principiante en CyberSeguridad y Programación
 
 
 ### Stats
-![Elbarus32's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elbarus32&show_icons=true&theme=radical)
+![Elbarus32's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elbarus32&show_icons=true&theme=react)
