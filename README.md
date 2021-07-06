@@ -8,7 +8,7 @@ Soy principiante en CyberSeguridad y Programación
 - 👯 En un futuro quiero aprender C#, Java Script, CSS y HTML ...
 - 📫 Puedes contactar con migo a traves de discord: Elbarus32#9514
 
-https://discord.gg/X7yDca86Qy
+https://discord.gg/https://discord.gg/X7yDca86Qy
 
 ### Lenguajes
 
